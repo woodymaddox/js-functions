@@ -33,4 +33,4 @@ console.log(nuggetizer('pig'));
 const dogbreedPrinter=(dogBreed)=>{
 return `My favorite dog breed is ${dogBreed}`;
 };
-console.log(dogBreedPrinter('Lab'));
+console.log(dogbreedPrinter('Lab'));
